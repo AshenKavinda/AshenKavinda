@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ashen Kavinda</h1>
 <h3 align="center">I am BSc (Hons) Computing undergraduate in Sri Lanka</h3>
 <br>
-<img align="left" alt="Coding" width="400" src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif">
+<img align="left" alt="Coding" width="400" src="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenkavinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashenkavinda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenkavinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashenkavinda"/> </p>
 
 - 🌱 I’m currently learning **Bootstrap,php**
 
