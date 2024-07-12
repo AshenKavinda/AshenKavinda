@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashen Kavinda</h1>
 <h3 align="center">I am BSc (Hons) Computing undergraduate in Sri Lanka</h3>
 <br>
-<img align="left" alt="Coding" width="400" src="">
+<img align="left" alt="Coding" width="400" src="https://i0.wp.com/oasisinternationaljournal.org/wp-content/uploads/2017/09/hacker2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenkavinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashenkavinda"/> </p>
 
