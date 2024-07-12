@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashen Kavinda</h1>
 <h3 align="center">I am BSc (Hons) Computing undergraduate in Sri Lanka</h3>
 <br>
-<img align="left" alt="Coding" width="400" src="[https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvapor95.com%2Fblogs%2Fdarknet%2Fhackers&psig=AOvVaw3kL68hARJ1YSb8lU1tZetH&ust=1720834314967000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCLDutMitoIcDFQAAAAAdAAAAABAE)">
+<img align="left" alt="Coding" width="400" src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenkavinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashenkavinda" /> </p>
 
