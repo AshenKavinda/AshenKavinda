@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenkavinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashenkavinda"/> </p>
 
-- 🌱 I’m currently learning **Bootstrap,php**
+- 🌱 I’m currently learning **c# & .Net**
 
-- 📫 How to reach me **kavindahemarathna321@gmail.com**
+- 📫 How to reach me **kavinda.hemarathna@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
