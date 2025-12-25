@@ -45,7 +45,6 @@
 
 � **Email:** [kavinda.hemarathna@outlook.com](mailto:kavinda.hemarathna@outlook.com)
 
-📱 **Phone:** +94 76 932 7761
 
 🌐 **Portfolio:** [ashenkavinda.github.io/portafolio](https://ashenkavinda.github.io/portafolio/)
 
@@ -214,14 +213,8 @@
   <a href="https://medium.com/@kavinda.hemarathna" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://instagram.com/k_a_vi_n_da_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="mailto:kavinda.hemarathna@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+94769327761">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </div>
 
