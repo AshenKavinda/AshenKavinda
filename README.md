@@ -130,7 +130,7 @@
 
 ---
 
-## 💼 Professional Skills
+## 💼 Other Skills
 
 <table>
   <tr>
@@ -142,7 +142,6 @@
         • Data Modeling<br/>
         • API Development<br/>
         • Database Optimization<br/>
-        • Code Review & Quality<br/>
       </div>
     </td>
     <td valign="top" width="33%">
@@ -163,8 +162,6 @@
         • Active Listening<br/>
         • Technical Writing<br/>
         • Presentation<br/>
-        • Problem Articulation<br/>
-        • Stakeholder Engagement<br/>
       </div>
     </td>
   </tr>
