@@ -46,7 +46,7 @@
 � **Email:** [kavinda.hemarathna@outlook.com](mailto:kavinda.hemarathna@outlook.com)
 
 
-🌐 **Portfolio:** [ashenkavinda.github.io/portafolio](https://ashenkavinda.github.io/portafolio/)
+🌐 **Blog:** [Medium](https://medium.com/@kavinda.hemarathna)
 
 <br clear="both"/>
 
